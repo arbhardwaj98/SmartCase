@@ -1,6 +1,6 @@
 # SmartCase
 
-Microcontroller code for the prototype of SmartCase by TurtShell
+**Microcontroller code for the prototype of SmartCase by *TurtShell***
 
 ◦ A phone case that automatically deploys impact absorbing elements while falling to protect the phone from damage
 
